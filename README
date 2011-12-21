@@ -1,0 +1,8 @@
+Simple webpage and PHP class to get cable modem information
+via SNMP
+
+Requires a docsisserver style docsismodem database to work
+but if you use dynamic DNS with isc DHCP you can use the PEAR
+Package for DNS Queries for name to IP resolution in my case I
+used the commited "hook" from isc dhcp server.
+
